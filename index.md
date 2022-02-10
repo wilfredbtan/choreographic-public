@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+---
+title: Welcome to Choreographic
+---
 
-You can use the [editor on GitHub](https://github.com/wilfredbtan/choreographic-public/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# About Choreographic
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Choreographic makes planning formations super easy. With smooth animations between formations and a fully customizable stage size, visualising your dance and drill choreographies has never been easier.  
 
-### Markdown
+P.S. Yes I know this website is super simple but I'm on a budget :') Consider subscribing to Choreographic Pro so that I can design a better website.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Awesome Features
 
-```markdown
-Syntax highlighted code block
+## Music Sync
 
-# Header 1
-## Header 2
-### Header 3
+Why should I use Choreographic when I can simply draw formations on my notebook? Well, can your notebook sync your formations with music? Probably not. (But if yes, that's one sick notebook. Consider crowdfunding it). With Music Sync, you can see precisely how your dancers transition in real-time according to the music. 
 
-- Bulleted
-- List
+## Adjustable Transition Duration
 
-1. Numbered
-2. List
+5 6 7 8 ... 8.1, 8.2, With Choreographic, you can adjust formation and transition durations down to a tenth of a second to visualise the exact time needed for your dancers to travel.
 
-**Bold** and _Italic_ and `Code` text
+## Customizable Stage Size
 
-[Link](url) and ![Image](src)
-```
+Not all stages are equal and your choreography deserves to be plotted as accurately as possible. You can change the stage width and depth and even adjust the sidestage and backstage sizes accordingly.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Smooth Formation Transitions
 
-### Jekyll Themes
+Scrub between formations to experience our super smooth transitions. Help your dancers visualize exactly how they can travel without colliding with each other.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wilfredbtan/choreographic-public/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Add Notes to Formations
 
-### Support or Contact
+We know how crazy we can get with our choreographies. But sometimes our dancers need a little help to understand our vision. Add personalized notes to each formation so that dancers can view them in context.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Share Your Choreographies
+
+Export any choreography within seconds. You can share your choreographies with your dancers even if they don't have access to Choreographic Pro.
+
+
+# The New Norm for Choreographing
+<br>
+
+I'm currently working on the Android version and I hope to release it soon!
+
+
+
+
+
+# Terms of Use and Privacy Policy
+[Terms of Use](terms.md)  
+[Privacy Policy](privacy.md)
