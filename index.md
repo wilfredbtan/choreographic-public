@@ -12,7 +12,7 @@ P.S. Yes I know this website is super simple but I'm on a budget :') Consider su
 
 ## Music Sync
 
-Why should I use Choreographic when I can simply draw formations on my notebook? Well, can your notebook sync your formations with music? Probably not. (But if yes, that's one sick notebook. Consider crowdfunding it). With Music Sync, you can see precisely how your dancers transition in real-time according to the music. 
+Watch your formations come alive. With Music Sync, you can see precisely how your dancers transition in real-time according to the music you choose.
 
 ## Adjustable Transition Duration
 
@@ -26,6 +26,10 @@ Not all stages are equal and your choreography deserves to be plotted as accurat
 
 Scrub between formations to experience our super smooth transitions. Help your dancers visualize exactly how they can travel without colliding with each other.
 
+## Group Dancers by Color
+
+Use colors to visualize how different groups interact. Colors help both you and your dancers understand the intricacies of your choreography.
+
 ## Add Notes to Formations
 
 We know how crazy we can get with our choreographies. But sometimes our dancers need a little help to understand our vision. Add personalized notes to each formation so that dancers can view them in context.
@@ -36,9 +40,10 @@ Export any choreography within seconds. You can share your choreographies with y
 
 
 # The New Norm for Choreographing
+Choreographic seeks to revolutionize the way we choreograph and communicate with our dancers. We have many exciting features planned and we're glad to have you on this journey with us!
 <br>
 
-I'm currently working on the Android version and I hope to release it soon!
+P.S. We're currently working on the Android version and I hope to release it soon!
 
 
 
