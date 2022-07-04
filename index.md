@@ -20,7 +20,7 @@ Watch your formations come alive. With Music Sync, you can see precisely how you
 
 ## Customizable Stage Size
 
-Not all stages are equal and your choreography deserves to be plotted as accurately as possible. You can change the stage width and depth and even adjust the sidestage and backstage sizes accordingly.
+Every stage is unique and your choreography deserves to be plotted as accurately as possible. You can change the stage width and depth and even adjust the sidestage and backstage sizes accordingly.
 
 ## Smooth Formation Transitions
 
